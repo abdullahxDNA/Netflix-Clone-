@@ -12,15 +12,7 @@ Project Name : Netflix Clone
 Using : React-Vite, Tailwind(Css Library) , Firebase as authentication, database, and for hosting this website.
 
 Author: 
-
-Member 1 : 
-Name: Shovan Bhattacharjee || Id: C211010 || Sec.: 6AM
-
-Member 2 : 
-Name: Imon Shahriar Ifti || Id: C211029 || Sec.: 6AM
-
-Member 3 : 
-Name: Hasanuzzam || Id: C211014 || Sec.: 6AM
+MD ABDULLAH
 
 Project Features : 
 1. Interactive UI. (We used Tailwind)
@@ -33,4 +25,5 @@ Project Pages:
 1. Home Page. (Combination of Navbar,Hero,MovieItem,MovieRow sections)
 2. SignUp Page. 
 3. LogIn page.
+
 4. Profile.
